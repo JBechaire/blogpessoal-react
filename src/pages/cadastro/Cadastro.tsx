@@ -35,7 +35,7 @@ function Cadastro() {
       ...usuario,
       [e.target.name]: e.target.value
     })
-
+git
   }
 
   function handleConfirmarSenha(e: ChangeEvent<HTMLInputElement>){
